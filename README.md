@@ -5,7 +5,7 @@ Dawn of Light is a World of Warcraft Private Server, focused on creating a Vanil
 ## Installation
 
 
-Download the latest content from the [releases](https://pip.pypa.io/en/stable/) page
+Download the latest content from the [releases](https://github.com/Dawn-of-Light-PS/Patch_Archive/releases) page
 
 
 ## Contributing
