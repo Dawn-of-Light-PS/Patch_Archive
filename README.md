@@ -1,4 +1,5 @@
-![alt text]([http://url/to/img.png](https://i.imgur.com/XtvT1Ad.png))
+
+![dowlogo](https://github.com/user-attachments/assets/d431931c-63e8-4fb4-b481-0580eff0b42c)
 
 # Dawn of Light
 
