@@ -1,6 +1,5 @@
-<p align="center">
+
 ![dowlogo](https://i.imgur.com/l7rGspB.png)
-</p>
 
 Dawn of Light is a World of Warcraft Private Server, focused on creating a Vanilla+ Like experience, which can be compared to the version hosted by Blizzard known as Season of Discovery.
 
