@@ -1,20 +1,19 @@
 
 ![dowlogo](https://i.imgur.com/l7rGspB.png)
 
-Dawn of Light is a World of Warcraft Private Server, focused on creating a Vanilla+ Like experience, which can be compared to the version hosted by Blizzard known as Season of Discovery.
+# Dawn of Light
+
+Dawn of Light is a World of Warcraft private server focused on creating a Vanilla+ experience, similar to Blizzard's **Season of Discovery**.
 
 ## Installation
 
-
-Download the latest content from the [releases](https://github.com/Dawn-of-Light-PS/Patch_Archive/releases) page
-
+1. Download the latest content from the [Releases](https://github.com/Dawn-of-Light-PS/Patch_Archive/releases) page.
 
 ## Contributing
 
-- Dawn of Light developer team
-
-- Free available online resources
+- Contributions are made by the **Dawn of Light developer team**.
+- Resources also include **freely available online materials**.
 
 ## License
 
-None, its just patches. Use as you wish
+This project does not include a license. It consists of patches and can be used as you wish.
