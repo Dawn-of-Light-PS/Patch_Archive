@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="[image-url](https://i.imgur.com/l7rGspB.png)" alt="Logo" width="512" />
+  ![dowlogo](https://i.imgur.com/l7rGspB.png)
 </p>
 
 # Dawn of Light
