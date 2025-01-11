@@ -1,8 +1,5 @@
 
-
-<p align="center">
-  ![dowlogo](https://i.imgur.com/l7rGspB.png)
-</p>
+![dowlogo](https://i.imgur.com/l7rGspB.png)
 
 # Dawn of Light
 
